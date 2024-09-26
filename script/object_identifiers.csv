@@ -120,6 +120,7 @@
 2.5.29.19,basicConstraints
 2.5.29.14,subjectKeyIdentifier
 1.3.14.3.2.26,SHA1
+1.2.840.113549.1.9.1,E
 1.2.840.113549.1.1.13,sha512WithRSAEncryption
 1.2.840.113549.1.1.12,sha384WithRSAEncryption
 1.2.840.113549.1.1.14,sha224WithRSAEncryption
